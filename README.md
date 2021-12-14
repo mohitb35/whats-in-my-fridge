@@ -1,3 +1,9 @@
+Frontend for web app that helps manage what's in your fridge, and reduce food wastage.
+
+Stack - React
+
+---> Instructions below are for create-react-app functionality. To be edited as and when needed.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
